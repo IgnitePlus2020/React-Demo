@@ -1,2 +1,7 @@
 # React-Demo
-React Demo Code
+clone the React-Demo
+Go To the my-app directory
+run
+
+     npm install
+     npm start
